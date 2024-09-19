@@ -1,0 +1,26 @@
+name,species,gender,house,dateOfBirth,yearOfBirth,ancestry,eyeColour,hairColour,patronus,hogwartsStudent,hogwartsStaff,actor,alive,image,wand_wood,wand_core,wand_length
+Harry Potter,human,male,Gryffindor,1980-07-31 00:00:00,1980,half-blood,green,black,stag,True,False,Daniel Radcliffe,True,http://hp-api.herokuapp.com/images/harry.jpg,holly,phoenix feather,11
+Hermione Granger,human,female,Gryffindor,1979-09-19 00:00:00,1979,muggleborn,brown,brown,otter,True,False,Emma Watson,True,http://hp-api.herokuapp.com/images/hermione.jpeg,vine,dragon heartstring,
+Ron Weasley,human,male,Gryffindor,1980-03-01 00:00:00,1980,pure-blood,blue,red,Jack Russell terrier,True,False,Rupert Grint,True,http://hp-api.herokuapp.com/images/ron.jpg,willow,unicorn tail-hair,14
+Draco Malfoy,human,male,Slytherin,1980-06-05 00:00:00,1980,pure-blood,grey,blonde,None,True,False,Tom Felton,True,http://hp-api.herokuapp.com/images/draco.jpg,hawthorn,unicorn tail-hair,10
+Minerva McGonagall,human,female,Gryffindor,1925-10-04 00:00:00,1925,Unknown,Unknown,black,tabby cat,False,True,Dame Maggie Smith,True,http://hp-api.herokuapp.com/images/mcgonagall.jpg,,,
+Cedric Diggory,human,male,Hufflepuff,Unknown,1977,Unknown,grey,brown,None,True,False,Robert Pattinson,False,http://hp-api.herokuapp.com/images/cedric.png,ash,unicorn hair,12.25
+Cho Chang,human,female,Ravenclaw,Unknown,1961,Unknown,brown,black,swan,True,False,Katie Leung,True,http://hp-api.herokuapp.com/images/cho.jpg,,,
+Severus Snape,human,male,Slytherin,1960-01-09 00:00:00,1960,half-blood,black,black,doe,False,True,Alan Rickman,False,http://hp-api.herokuapp.com/images/snape.jpg,,,
+Rubeus Hagrid,half-giant,male,Gryffindor,1928-12-06 00:00:00,1928,half-blood,black,black,None,False,True,Robbie Coltrane,True,http://hp-api.herokuapp.com/images/hagrid.png,oak,,16
+Neville Longbottom,human,male,Gryffindor,1980-07-30 00:00:00,1980,pure-blood,Unknown,blonde,None,True,False,Matthew Lewis,True,http://hp-api.herokuapp.com/images/neville.jpg,cherry,unicorn tail-hair,13
+Luna Lovegood,human,female,Ravenclaw,1981-02-13 00:00:00,1981,Unknown,grey,blonde,hare,True,False,Evanna Lynch,True,http://hp-api.herokuapp.com/images/luna.jpg,,,
+Ginny Weasley,human,female,Gryffindor,1981-08-11 00:00:00,1981,pure-blood,brown,red,horse,True,False,Bonnie Wright,True,http://hp-api.herokuapp.com/images/ginny.jpg,yew,,
+Sirius Black,human,male,Gryffindor,1959-11-03 00:00:00,1959,pure-blood,grey,black,hare,False,False,Gary Oldman,False,http://hp-api.herokuapp.com/images/sirius.JPG,,,
+Remus Lupin,werewolf,male,Gryffindor,1960-03-10 00:00:00,1960,half-blood,green,brown,wolf,False,True,David Thewlis,False,http://hp-api.herokuapp.com/images/lupin.jpg,cypress,unicorn tail-hair,10.25
+Arthur Weasley,human,male,Gryffindor,1950-02-06 00:00:00,1950,pure-blood,blue,red,weasel,False,False,Mark Williams,True,http://hp-api.herokuapp.com/images/arthur.jpg,,,
+Bellatrix Lestrange,human,female,Slytherin,Unknown,1951,pure-blood,brown,black,None,False,False,Helena Bonham Carter,False,http://hp-api.herokuapp.com/images/bellatrix.jpg,walnut,dragon heartstring,12.75
+Lord Voldemort,human,male,Slytherin,1926-12-31 00:00:00,1926,half-blood,red,bald,None,False,False,Ralph Fiennes,False,http://hp-api.herokuapp.com/images/voldemort.jpg,yew,phoenix feather,13.5
+Horace Slughorn,human,male,Slytherin,Unknown,1961,pure-blood,green,blonde,None,False,True,Jim Broadbent,True,http://hp-api.herokuapp.com/images/slughorn.JPG,cedar,dragon heartstring,10.25
+Kingsley Shacklebolt,human,male,Unknown,Unknown,1961,pure-blood,brown,brown,lynx,False,False,George Harris,True,http://hp-api.herokuapp.com/images/kingsley.jpg,,,
+Dolores Umbridge,human,female,Slytherin,Unknown,1961,half-blood,brown,grey,persian cat,False,True,Imelda Staunton,True,http://hp-api.herokuapp.com/images/umbridge.jpg,birch,dragon heartstring,8
+Lucius Malfoy,human,male,Slytherin,Unknown,1954,pure-blood,grey,blonde,None,False,False,Jason Isaacs,True,http://hp-api.herokuapp.com/images/lucius.jpg,elm,dragon heartstring,18
+Vincent Crabbe,human,male,Slytherin,Unknown,1961,pure-blood,black,black,None,True,False,Jamie Waylett,False,http://hp-api.herokuapp.com/images/crabbe.jpg,,,
+Gregory Goyle,human,male,Slytherin,Unknown,1961,pure-blood,Unknown,brown,None,True,False,Josh Herdman,True,http://hp-api.herokuapp.com/images/goyle.jpg,,,
+Mrs Norris,cat,female,Unknown,Unknown,1961,Unknown,yellow,brown,None,False,True,"Maxime, Alanis and Tommy the cats",True,http://hp-api.herokuapp.com/images/norris.JPG,,,
+Argus Filch,human,male,Unknown,Unknown,1961,squib,Unknown,grey,None,False,True,David Bradley,True,http://hp-api.herokuapp.com/images/filch.jpg,,,
